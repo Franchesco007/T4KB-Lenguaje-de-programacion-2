@@ -1,1 +1,4 @@
-# T4KB---Lenguaje-de-Programaci-n-2
+Franchesco Stefano Somontes Marin
+Lenguaje de progrmación
+Computación e informática
+2022
